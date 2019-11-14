@@ -1,0 +1,19 @@
+Package: VIAreports
+Type: Package
+Title: VIA lokalerapporter
+Version: 0.7.2
+Author: Thomas Bendsen
+Maintainer: Thomas Bendsen <THBE@via.dk>
+Description: Genererer diverse rapporter over VIAs lokaleforbrug
+License: What license is it under?
+Encoding: UTF-8
+Imports: ggplot2,
+        xlsx,
+        rjson,
+        RMariaDB,
+        gridExtra,
+        gplots,
+        tidyr,
+        dplyr
+LazyData: true
+RoxygenNote: 6.1.1
